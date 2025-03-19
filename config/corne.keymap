@@ -70,10 +70,5 @@
                              &kp LGUI  &trans    &kp SPACE    &mkp LCLK  &mkp RCLK       &kp RALT
             >;
         };
-
-        extra_2 { status = "reserved"; };
-
-        layer_6 {
-        };
     };
 };
